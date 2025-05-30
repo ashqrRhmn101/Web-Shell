@@ -18,3 +18,6 @@ A minimal, powerful PHP shell script for testing file upload vulnerabilities dur
 
 1. Upload the file (e.g., `hackar101_shell.php`) to a target vulnerable to unrestricted file uploads.
 2. Access via browser:
+
+php-shell, ethical-hacking, penetration-testing, file-upload, web-shell, bugbounty, HackA.R101, CTF-tools
+
