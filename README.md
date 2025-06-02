@@ -1,4 +1,3 @@
-# Web-Shell
 # 💀 HackA.R101's PHP Web Shell
 
 A minimal, powerful PHP shell script for testing file upload vulnerabilities during ethical hacking and penetration testing missions.
