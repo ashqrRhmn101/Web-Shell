@@ -2,7 +2,7 @@
 
 A minimal, powerful PHP shell script for testing file upload vulnerabilities during ethical hacking and penetration testing missions.
 
-----
+-----
 
 ## ⚙️ Features
 - Run any system command via browser using `?cmd=your_command`
