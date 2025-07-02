@@ -11,7 +11,7 @@ A minimal, powerful PHP shell script for testing file upload vulnerabilities dur
 - Custom branding (HackA.R101's signature shell 💀)
 - Easy to modify and extend
 
------
+------
 
 ## 🚀 Usage
 
